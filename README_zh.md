@@ -1,4 +1,4 @@
-Click here to switch to English: [English] [1]
+Click here to switch to English: [English]
 # 磁盘勒索软件
 ## 怎么工作的？
 当程序启动时，它将会把MBR和$MFT备份到磁盘的其他扇区，备份完成，将会把勒索信息打印到控制台中。
@@ -11,4 +11,4 @@ Click here to switch to English: [English] [1]
 # 注意！
 此源代码仅供交流和学习使用。造成的任何后果和作者无关。
 
-[1]: https://github.com/RCH2010/Disk-MBR-and-MFT-Ransomware/blob/main/README.md
+[English]: https://github.com/RCH2010/Disk-MBR-and-MFT-Ransomware/blob/main/README.md

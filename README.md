@@ -8,4 +8,4 @@ Only for studying purposes.
 
 # Your ⭐star⭐ is my wonderful power!🚀🚀🚀
 
-[Chinese]: [https://github.com/RCH2010/Disk-MBR-and-MFT-Ransomware/blob/main/README_zh.md]
+[Chinese]: https://github.com/RCH2010/Disk-MBR-and-MFT-Ransomware/blob/main/README_zh.md
